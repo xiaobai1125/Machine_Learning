@@ -1,4 +1,3 @@
-# 数据集上传不了,可从网上自行下载
 # 导包
 import matplotlib.pyplot as plt  # 可视化
 from sklearn.model_selection import train_test_split  # 数据集划分
