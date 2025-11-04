@@ -12,7 +12,7 @@ import pandas as pd
 # 显示图片
 def show_digit(idx):
     # 获取数据集
-    data = pd.read_csv('data/手写数字识别.csv')
+    data = pd.read_csv('../data/手写数字识别.csv')
     # 检验非法值
     if idx < 0 or idx > len(data) - 1:
         return
@@ -36,7 +36,7 @@ def show_digit(idx):
 # 训练模型
 def train_model():
     # 获取数据
-    data = pd.read_csv('data/手写数字识别.csv')
+    data = pd.read_csv('../data/手写数字识别.csv')
     x = data.iloc[:, 1:].values / 255.0  # 归一化,把数据转化成 0-1 之间,同时values把df转化成 numpy 数组
     y = data.iloc[:, 0].values
     # 划分数据集
