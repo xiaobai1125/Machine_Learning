@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11887479-2659-40de-82d1-3fdf4e5517cb" name="更改" comment="机器学习回顾练习">
-      <change beforePath="$PROJECT_DIR$/K近邻(KNN)/model/knn.pkl" beforeDir="false" />
-    </list>
+    <list default="true" id="11887479-2659-40de-82d1-3fdf4e5517cb" name="更改" comment="机器学习回顾练习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,26 +14,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "xiaobai1125",
-      "author": "xiaobai1125"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;xiaobai1125&quot;,
+      &quot;author&quot;: &quot;xiaobai1125&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xiaobai1125",
-    "author": "xiaobai1125"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xiaobai1125&quot;,
+    &quot;author&quot;: &quot;xiaobai1125&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xiaobai1125/ML_DL.git",
-    "accountId": "6236985c-d8eb-4de5-b606-0a9d90ae5ce5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xiaobai1125/ML_DL.git&quot;,
+    &quot;accountId&quot;: &quot;6236985c-d8eb-4de5-b606-0a9d90ae5ce5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -78,11 +76,35 @@
       <updated>1762253453973</updated>
       <workItem from="1762253455250" duration="1336000" />
       <workItem from="1762264862374" duration="153000" />
+      <workItem from="1762265159462" duration="354000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="SSA_ML" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="机器学习回顾练习" />
